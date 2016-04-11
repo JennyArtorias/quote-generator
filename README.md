@@ -1,1 +1,1 @@
-Me and Jenny L roa are doing Quote Generator :)
+For this assignment I am pair programming with Surya Surendranath xD. 
